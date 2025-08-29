@@ -1,5 +1,3 @@
-#python tree_printer.py /path/to/Folder --depth 3
-
 import os
 import argparse
 from colorama import Fore, Style, init
@@ -46,3 +44,4 @@ if __name__ == "__main__":
 
     print(Fore.YELLOW + folder_name + "/" + Style.RESET_ALL)
     print_tree(folder_path, depth=args.depth)
+
