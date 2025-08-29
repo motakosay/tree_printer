@@ -13,7 +13,7 @@
   Uses `colorama` to distinguish folders (blue) and files (green), making the tree easier to read and more visually expressive in terminal environments.
 
 - **Unicode Tree Drawing**  
-  Renders the hierarchy using `├─`, `└─`, and `│` characters for a familiar and elegant tree layout — just like the one used to describe your Wathiqa extension.
+  Renders the hierarchy using `├─`, `└─`, and `│` characters for a familiar and elegant tree layout.
 
 ---
 
