@@ -1,4 +1,4 @@
-![Directory tree.svg](https://visualpharm.com/assets/705/Folder%20Tree-595b40b65ba036ed117d40de.svg)
+<img src="https://visualpharm.com/assets/705/Folder%20Tree-595b40b65ba036ed117d40de.svg" alt="Directory tree" width="300"/>
 
 # TreePrinter
 ---
